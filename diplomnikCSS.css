@@ -1,11 +1,12 @@
 .text {
-color: black;
+color: #2f4f4f;
 width: auto;
 height: auto;
-text-align: justify-all;
+text-align: justify;
 padding: 10px;
 font-size: 28px;
 font-family: "Arial Black";
+margin-top: 50px;
     
 
     
@@ -60,8 +61,8 @@ margin: auto;
 
 
 .table{
-    margin-top: 500px;
-    margin-left: 30%;
+    margin-top: 450px;
+    margin-left: 33%;
     
     
     
