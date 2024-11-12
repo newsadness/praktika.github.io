@@ -14,7 +14,7 @@ font-family: "Arial Black";
 
 
 .default {
-    background-color:bisque;
+    background-color:#dff5f2;
     
     
 }
@@ -46,8 +46,8 @@ margin: auto;
 
 
 .button {
-    color: white;
-    background-color: chocolate;
+    color: #2f4f4f;
+    background-color:#87dfd6;
     font-family: "Arial Black";
     text-align: center;
     font-size: 40px;
